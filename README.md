@@ -2,7 +2,7 @@
 
 for python course with cyperSecurity bootcamp ,techcampus.com
 
-# Discribe 
+# Describe 
 
 this homework about test random number from user, to show him which number he enter is prime number and wich not, so i try to way to test the numbers.  
 
